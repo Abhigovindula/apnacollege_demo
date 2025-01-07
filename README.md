@@ -1,1 +1,2 @@
-# apnacollege_demo
+# apnacollege-demo
+Author : abhisht
